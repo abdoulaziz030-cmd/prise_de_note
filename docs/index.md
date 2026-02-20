@@ -72,4 +72,28 @@ Versioning
 
 Conservation à long terme
 
-## Les aspects juridiques des données géographiques
+### LES SOURCES
+[IGN](https://www.ign.fr/institut)
+### BD TOPO
+[BD TOPO](https://geoservices.ign.fr/bdtopo)
+
+###  PCI Plan Cadastral Informatisé
+
+[PCI](https://www.data.gouv.fr/fr/datasets/plan-cadastral-informatise/)
+
+##  Données environnementales
+
+###  INPN  Inventaire National du Patrimoine Naturel
+[INPN](https://inpn.mnhn.fr)
+- [ZNIEFF](https://inpn.mnhn.fr/programme/znieff)
+- [Natura 2000](https://inpn.mnhn.fr/programme/natura2000)
+
+##  Données énergie
+
+### EDF
+
+- [Open Data EDF](https://opendata.edf.fr)
+
+
+### GRDF
+[réseau gaz](https://opendata.grdf.fr) 
