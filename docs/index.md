@@ -237,10 +237,10 @@ Cette liste n'est pas forcément exhaustive et beaucoup de formats ne sont pas o
 ## RASTER 
 Source (SCAN, aérien, spatial, radar,lidar,drone)
 
-![Format Raster](images/format_raster.png)
+![alt text](image-6.png)
 
 ## VECTEUR (SHP, GEOJSON, GPKG, KML,GDB, PGIS,GPX)
 
 ##  VECTEUR
 
-![Formats vecteur](images/vecteur.png)
+![alt text](image-7.png)
