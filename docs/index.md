@@ -216,3 +216,31 @@ Load : Les données transformées peuvent être chargé dans la base cible.
 
 ![alt text](image-4.png)
 ![alt text](image-5.png)
+
+## Les formats de données
+
+### Objectifs
+
+À partir de différents logiciels (QGIS, ogr2ogr), aborder les multiples formats utilisés en géomatique.
+L'information géographique utilisée en géomatique se décline en deux types de données : les données vecteurs et les données rasters.
+
+Les logiciels SIG vont stocker ces données vecteurs et rasters dans des fichiers dont le format est varié en fonction des logiciels.
+
+
+## Les formats utilisés en géomatique
+
+Georezo a listé tous les formats utilisés :  
+[Liste des extensions – Georezo](https://georezo.net/wiki/main/donnees/extensions)
+
+Cette liste n'est pas forcément exhaustive et beaucoup de formats ne sont pas ou peu utilisés dans la pratique (logiciels obsolètes, formats non utilisés en France).
+
+## RASTER 
+Source (SCAN, aérien, spatial, radar,lidar,drone)
+
+![Format Raster](images/format_raster.png)
+
+## VECTEUR (SHP, GEOJSON, GPKG, KML,GDB, PGIS,GPX)
+
+##  VECTEUR
+
+![Formats vecteur](images/vecteur.png)
