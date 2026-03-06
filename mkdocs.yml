@@ -1,4 +1,7 @@
 
 site_name: Site de Documentation CPGEOm
 theme:
+
 name: readethedocs
+nav: 
+- bdd: td.md
